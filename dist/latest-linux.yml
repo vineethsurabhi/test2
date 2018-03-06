@@ -1,9 +1,9 @@
-version: 0.5.2
+version: 1.5.2
 files:
-  - url: electron-updater-example-0.5.2-x86_64.AppImage
-    sha512: 1Ue3RkpooUqAMdcarTt/uJZkBFEtbgA8jDsmL5BYJ5cVFIbl/KV2BUs95ElUJeC5Vmto+TafWTnoSts2CnwIFA==
-    size: 48582444
-    blockMapSize: 51312
-path: electron-updater-example-0.5.2-x86_64.AppImage
-sha512: 1Ue3RkpooUqAMdcarTt/uJZkBFEtbgA8jDsmL5BYJ5cVFIbl/KV2BUs95ElUJeC5Vmto+TafWTnoSts2CnwIFA==
-releaseDate: '2018-03-06T06:53:52.984Z'
+  - url: electron-updater-example-1.5.2-x86_64.AppImage
+    sha512: /JuilZrLsIkqQvan53mR18t0zN2RX2aDOszVYP3xX/FXpvBcJ+1PwjJzvo3UCkS8aPW4KbJ1z9lUQbBWpnPFlg==
+    size: 48582425
+    blockMapSize: 51293
+path: electron-updater-example-1.5.2-x86_64.AppImage
+sha512: /JuilZrLsIkqQvan53mR18t0zN2RX2aDOszVYP3xX/FXpvBcJ+1PwjJzvo3UCkS8aPW4KbJ1z9lUQbBWpnPFlg==
+releaseDate: '2018-03-06T07:09:29.437Z'
