@@ -1,0 +1,9 @@
+version: 0.5.0
+files:
+  - url: electron-updater-example-0.5.0-x86_64.AppImage
+    sha512: +CxoG56JTTHSNdpofsav0NPXonOKwOX+2Eo/0BWWJya1NvYbw3wSz0JsKYW0p+8DK/jFJ0kzV72oDSlZGBEbNQ==
+    size: 48582258
+    blockMapSize: 51126
+path: electron-updater-example-0.5.0-x86_64.AppImage
+sha512: +CxoG56JTTHSNdpofsav0NPXonOKwOX+2Eo/0BWWJya1NvYbw3wSz0JsKYW0p+8DK/jFJ0kzV72oDSlZGBEbNQ==
+releaseDate: '2018-03-06T06:36:48.866Z'
